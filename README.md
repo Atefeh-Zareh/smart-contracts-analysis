@@ -1,3 +1,5 @@
+IN this document we investigate the functionality of the [Uniswap smart contract](https://etherscan.io/token/0x1f9840a85d5af5bf1d1762f925bdaddc4201f984#code) and provide the security analysis results. 
+
 # Uniswap (Uni)
 
 Uniswap (Uni) is a decentralized exchange (DEX) that operates on the Ethereum blockchain. Its logic is primarily driven by automated market-making and decentralized liquidity provision. Here's a simplified explanation of the logic behind Uniswap:
